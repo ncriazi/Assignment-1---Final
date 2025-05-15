@@ -1,5 +1,6 @@
 # Assignment-1---Final
 Refactored code for readability and modularity. Included missing docstrings. Passes validity checker.
+
 Total Points
 18.55 / 20 pts
 
